@@ -19,7 +19,7 @@ comments: true
    
    ![Verify conformation email](https://i.imgur.com/NIGYlVK.gif)
 
-1. Click **Fork** at the top of this page to make a copy of the `matcttu.github.io` repository.
+1. Click **Fork** at the top of [this page](https://github.com/MATCTTU/matcttu.github.io) to make a copy of the `matcttu.github.io` repository.
 
    ![Click fork](https://i.imgur.com/sqL26aO.gif)
 
