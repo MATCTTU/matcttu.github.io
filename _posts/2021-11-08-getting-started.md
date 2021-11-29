@@ -63,3 +63,6 @@ This series of projects introduces you to some of the tools that you'll use in a
 You can now view your live site at https://username.github.io, replacing `username` with your username, of course. If you don't see your site, go to **Settings** > **Pages** to verify GitHub Pages is publishing your site. You also may have to change the Source branch:
 
 ![Change source branch](https://i.imgur.com/EmyzhGs.gif)
+
+## What's next
+[Customize your site](https://matcttu.github.io/customize/)
