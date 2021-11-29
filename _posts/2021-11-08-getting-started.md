@@ -9,6 +9,13 @@ tags:
 comments: true
 ---
 
+This series of projects introduces you to some of the tools that you'll use in a [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach. In this project you will:
+
+1. Create a GitHub account.
+1. Make a copy of an [example site](https://matcttu.github.io/)
+1. Make some edits.
+1. Visit the live site.
+
 ## Getting Started
 
 1. [Create a GitHub account](https://github.com/join).
@@ -33,7 +40,9 @@ comments: true
 
    ![Update the Repo name](https://i.imgur.com/RV0kw0A.gif)
 
-   > Note that `username.githib.io` will be your site's URL or web address, but before you can visit your site, you need to update the config file.
+   > Replace `username` in `username.githib.io` with the username you selected in step one.
+ 
+   Before you can visit your site, you need to update the config file.
 
 1. Click `_config.yml` to open the file.
 
