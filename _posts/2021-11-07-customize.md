@@ -27,13 +27,19 @@ comments: true
 
 Lines 7 and 8 of the `_config.yml` show you that the logo and background images are named `logo.png` and `placeholder-big.jpg`. It's quickest to leave `_config.yml` alone and upload new images with the same names to the images folder.
 
+1. Go to [Unsplash](https://unsplash.com/s/photos/background) and download any image.
+
+1. Rename the image `placeholder-big.jpg`.
+
 1. From the main repo page click **assets**, and then click **img** to open the images folder.
 
 1. Click **Add a file**, and then click **Upload files**.
 
-1. Drag and drop the images you want to upload, and then click **Commit changes**. Note that it may take up to 10 minutes for your changes to rollout.
+1. Drag and drop the image you downloaded from Unsplash, and then click **Commit changes**. Note that it may take up to 10 minutes for your changes to rollout.
 
    > Note that files with the same names will be replaced. If you uploaded files with different names, edit lines 7 and 8 in the `_config.yml` file to reflect the new names.
+
+   You can repeat these steps to update the logo.
 
 #### Social icons
 
@@ -52,3 +58,6 @@ Lines 7 and 8 of the `_config.yml` show you that the logo and background images 
 1. From the main repo page click **about**, and then click **index.md** to open the about page.
 1. Click the Pencil icon to edit the page.
 1. Tailor the page to you, and then click **Commit changes**. Note that it may take up to 10 minutes for your changes to rollout.
+
+## What's next
+[Create a post or project](https://matcttu.github.io/posts-and-projects/)
